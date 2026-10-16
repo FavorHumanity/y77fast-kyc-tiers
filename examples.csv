@@ -1,0 +1,4 @@
+amount,is_cash,has_id,month_total,name,account,address
+100,false,true,0,Ada,001,Apia
+25000,true,true,0,Ada,001,Apia
+500,false,false,0,,,
